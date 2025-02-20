@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adazing!
 - 👀 I’m interested in making cool projects!
-- 🌱 I’m currently learning machine learning & data analysis
+- 🌱 I’m currently learning machine learning & robotics
 
   
 <!---
